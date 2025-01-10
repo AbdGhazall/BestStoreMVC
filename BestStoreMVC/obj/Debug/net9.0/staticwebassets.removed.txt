@@ -1,0 +1,3 @@
+C:\Users\abodg\source\repos\BestStoreMVC\BestStoreMVC\wwwroot\products\20250110191819247.jpeg
+C:\Users\abodg\source\repos\BestStoreMVC\BestStoreMVC\wwwroot\products\Cameras2.jpeg
+C:\Users\abodg\source\repos\BestStoreMVC\BestStoreMVC\wwwroot\products\computer8.jpeg

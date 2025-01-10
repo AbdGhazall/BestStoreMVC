@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BestStoreMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BestStoreMVC.chhgq4b3br.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\20250110185538659.jpeg",
+      "PackagePath": "staticwebassets\\products\\20250110185538659.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\20250110190032690.jpeg",
+      "PackagePath": "staticwebassets\\products\\20250110190032690.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\20250110190734653.jpeg",
+      "PackagePath": "staticwebassets\\products\\20250110190734653.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\20250110191718082.jpeg",
+      "PackagePath": "staticwebassets\\products\\20250110191718082.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\20250110192005773.jpg",
+      "PackagePath": "staticwebassets\\products\\20250110192005773.jpg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\20250110192412585.jpeg",
+      "PackagePath": "staticwebassets\\products\\20250110192412585.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\20250110192835952.jpeg",
+      "PackagePath": "staticwebassets\\products\\20250110192835952.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\20250110193115629.jpeg",
+      "PackagePath": "staticwebassets\\products\\20250110193115629.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Accessories1.jpeg",
+      "PackagePath": "staticwebassets\\products\\Accessories1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Accessories2.jpeg",
+      "PackagePath": "staticwebassets\\products\\Accessories2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Accessories3.jpeg",
+      "PackagePath": "staticwebassets\\products\\Accessories3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Accessories4.jpeg",
+      "PackagePath": "staticwebassets\\products\\Accessories4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Accessories5.jpeg",
+      "PackagePath": "staticwebassets\\products\\Accessories5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Accessories6.jpeg",
+      "PackagePath": "staticwebassets\\products\\Accessories6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Cameras1.jpeg",
+      "PackagePath": "staticwebassets\\products\\Cameras1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Cameras3.jpeg",
+      "PackagePath": "staticwebassets\\products\\Cameras3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Cameras5.jpeg",
+      "PackagePath": "staticwebassets\\products\\Cameras5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Printers1.jpeg",
+      "PackagePath": "staticwebassets\\products\\Printers1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Printers2.jpeg",
+      "PackagePath": "staticwebassets\\products\\Printers2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Printers3.jpeg",
+      "PackagePath": "staticwebassets\\products\\Printers3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Printers4.jpeg",
+      "PackagePath": "staticwebassets\\products\\Printers4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Printers5.jpeg",
+      "PackagePath": "staticwebassets\\products\\Printers5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Printers6.jpeg",
+      "PackagePath": "staticwebassets\\products\\Printers6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Tablets1.jpeg",
+      "PackagePath": "staticwebassets\\products\\Tablets1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Tablets2.jpeg",
+      "PackagePath": "staticwebassets\\products\\Tablets2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\Tablets3.jpeg",
+      "PackagePath": "staticwebassets\\products\\Tablets3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\computer1.jpeg",
+      "PackagePath": "staticwebassets\\products\\computer1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\computer2.jpeg",
+      "PackagePath": "staticwebassets\\products\\computer2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\computer3.jpeg",
+      "PackagePath": "staticwebassets\\products\\computer3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\computer4.jpeg",
+      "PackagePath": "staticwebassets\\products\\computer4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\computer7.jpeg",
+      "PackagePath": "staticwebassets\\products\\computer7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\abodg\\source\\repos\\BestStoreMVC\\BestStoreMVC\\wwwroot\\products\\computer9.jpeg",
+      "PackagePath": "staticwebassets\\products\\computer9.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BestStoreMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BestStoreMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BestStoreMVC.props",
+      "PackagePath": "build\\BestStoreMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BestStoreMVC.props",
+      "PackagePath": "buildMultiTargeting\\BestStoreMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BestStoreMVC.props",
+      "PackagePath": "buildTransitive\\BestStoreMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,55 @@
+﻿@model List<Product>
+@{
+}
+<h2 class="text-center mb-5">List of Products</h2>
+<div class="row mb-5">
+	<div class="col">
+		<a class="btn btn-primary" asp-controller="Products" asp-action="Create">New Product</a>
+	</div>
+	<div class="col">
+	</div>
+</div>
+
+<form method="get" action="@Url.Action("Index", "Products")">
+	<div class="input-group mb-3">
+		<input type="text" name="searchQuery" class="form-control"
+			   placeholder="Search for product"
+			   value="@ViewData["SearchQuery"]" />
+		<button class="btn btn-primary" type="submit"> <i class="fas fa-search"></i></button>
+	</div>
+</form>
+
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Brand</th>
+			<th>Category</th>
+			<th>Price</th>
+			<th>Image</th>
+			<th>Created At</th>
+			<th>Action</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		@foreach (var product in Model)
+		{
+			<tr>
+				<td>@product.Id</td>
+				<td>@product.Name</td>
+				<td>@product.Brand</td>
+				<td>@product.Category</td>
+				<td>@(product.Price)$</td>
+				<td><img src="/products/@product.ImageFilename" width="100" /></td>
+				<td>@product.CreatedAt.ToString("MM/dd/yyyy")</td>
+				<td style="white-space:nowrap">
+					<a class="btn btn-primary btn-sm" asp-controller="Products" asp-action="Edit" asp-route-id="@product.Id"><i class="fas fa-edit"></i></a>
+					<a class="btn btn-danger btn-sm" asp-controller="Products" asp-action="Delete" asp-route-id="@product.Id" onclick="return confirm('Are you sure?')"> <i class="fas fa-trash-alt"></i></a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
